@@ -7,7 +7,7 @@ Esse projeto foi desenvolvimento para o curso formação github certification da
 
 ### Lista de tarefas
 
-- [ ] Criar o repósitorio.
-- [ ] Adicione um colaborador ao repositório
+- [X] Criar o repósitorio.
+- [X] Adicione um colaborador ao repositório
 - [ ] Realizar alterações, Commits, abrir issues e pull requests
-- [ ] Editar arquivo README.md
+- [X] Editar arquivo README.md
